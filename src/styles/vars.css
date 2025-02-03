@@ -1,0 +1,12 @@
+:root{
+    /*fontes*/
+    --font-dm-sans: "DM Sans", sans-serif;
+    --font-monte: "Montserrat", sans-serif;
+
+    /*cores*/
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0, 0, 0, 0.7);
+    --cor-12: #121212;
+    --cor-b3: #b3b3b3;
+    --cor-f: #fff;
+}
